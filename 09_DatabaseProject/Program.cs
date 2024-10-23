@@ -14,7 +14,7 @@ namespace _09_DatabaseProject
         {
             // ADO.NET
 
-            Console.WriteLine("*** C# Veri Tabanlı Ürün-Kategori Bilgi Sistemi ***");
+            Console.WriteLine("*** C# Veri Tabanlı Ürün ve Kategori Bilgi Sistemi ***");
             Console.WriteLine();
             Console.WriteLine();
 
