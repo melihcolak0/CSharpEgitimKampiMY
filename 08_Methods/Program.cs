@@ -143,7 +143,7 @@ namespace _08_Methods
 
             Console.WriteLine(ExamResult("Ali", 50, 60, 30));
             Console.WriteLine(ExamResult("Şeyma", 100, 50, 60));
-            Console.WriteLine(ExamResult("Metehan", 10, 20, 60));
+            Console.WriteLine(ExamResult("Metehan", 10, 20, 70));
 
             #endregion
 
