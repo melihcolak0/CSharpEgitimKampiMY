@@ -27,3 +27,6 @@ Bu projede C# programlama dilindeki fonksiyon olarak da bilinen metotları öğr
 
 ## :pushpin: Proje 9 -> MS SQL Veri Tabanı
 Bu projede C# programlama dilinde kullanılan değişkenlerin arka planda bir tabloda tutulması ile neredeyse her projede kullanılan SQL veri tabanını öğrendim. Öncelikle Microsoft SQL Server Management Studio'da oluşturduğum veri tabanını ve tabloları Visual Studio'da C# ile listeleyebileceğim bir örnek yaptım.
+
+## :pushpin: Proje 10 -> MS SQL Veri Tabanı Crud İşlemleri
+Bu projede C# programlama dilinde MS SQL Veri Tabanı Crud işlemlerini öğrendim. Crud (Create, Read, Update, Delete) işlemlerini Kategori Ekleme, Ürün Ekleme, Ürün Listeleme, Ürün Silme ve Ürün Güncelleme İşlemi gibi işlemlerle pekiştirdim.
