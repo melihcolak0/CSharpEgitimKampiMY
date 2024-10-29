@@ -1,4 +1,4 @@
-# :gem:C# Eğitim Kampı
+# :gem:C# Eğitim Kampı (#101 ve #201)
 Bu repository, Murat Yücedağ'ın C# Eğitim Kampı isimli eğitiminde oluşturmuş olduğumuz projelerin kodlarını içermektedir. Murat Yücedağ'a, yazılım öğrenmek isteyen herkesin yararlanabileceği bir eğitim içeriği oluşturduğu için çok teşekkür ederim.
 
 ## :pushpin: Proje 1 -> Merhaba, Dünya! ve Basit Yazdırma Metotları
