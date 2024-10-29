@@ -29,7 +29,7 @@ namespace _09_DatabaseProject
             tableNumber = Console.ReadLine();
             Console.WriteLine("----------------------------------------------------------");
 
-            SqlConnection connection = new SqlConnection("Data Source=**SERVER NAME**; initial Catalog=CSharpEgitimKampiDb; integrated security=true");
+            SqlConnection connection = new SqlConnection("Data Source=SERVER NAME; initial Catalog=CSharpEgitimKampiDb; integrated security=true");
             connection.Open();
             SqlCommand command = new SqlCommand("Select * From TblCategory", connection);
             SqlDataAdapter adapter = new SqlDataAdapter(command);
